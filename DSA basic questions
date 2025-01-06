@@ -7,7 +7,6 @@ public class FindMaxMin {
             System.out.println("Array is empty");
             return;
         }
-
         int max = array[0];
         int min = array[0];
 
